@@ -7,11 +7,11 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <h1></h1>
-      <ul> <li></li> </ul>
+      <h1>ICAN QUESTIONS and ANSWERS</h1>
+      <ul> <li>WHAT TO DO:</li> </ul>
       <ol>
-        <li></li>
-        <li></li>
+        <li>Set questions and hide answers within the button</li>
+        <li>Provide videos with explanation to anwers</li>
         <li></li>
       </ol>
     </div>
